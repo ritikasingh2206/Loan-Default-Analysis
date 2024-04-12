@@ -1,4 +1,4 @@
-# Loan Default Analysis using Python (EDA)
+# Loan Default Analysis using Python 
 Explore the world of loan data through Python analysis!!!
 
 
